@@ -148,8 +148,7 @@ This core implements an enterprise-grade authentication model mirroring managed 
 ## 👤 Author
 
 **BRIGGS DIVINE TOBIN**  
-- **GitHub:** [@dojo1235](https://github.com/dojo1235)  
-- **TikTok:** [@arnjelodev](https://www.tiktok.com/@arnjelodev)
+- **GitHub:** [@dojo1235](https://github.com/dojo1235)
 
 ---
 
