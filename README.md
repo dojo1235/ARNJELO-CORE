@@ -27,6 +27,20 @@
 
 ---
 
+<p align="center">
+  <a href="https://youtu.be/i-55Ricxexo?si=IRuCSP80A5iJ-19B" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/i-55Ricxexo/hqdefault.jpg" width="100%" alt="Written on a phone !== not prod." style="border-radius: 12px; border: 1px solid #30363d;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/i-55Ricxexo?si=IRuCSP80A5iJ-19B" target="_blank" rel="noopener noreferrer">
+    <strong>▶ Watch Full Video: Can You Build Backend on an Android Phone? (18 min)</strong>
+  </a>
+</p>
+
+---
+
 `ARNJELO-CORE` is a high-assurance, zero-compromise backend foundation. It provides enterprise architecture patterns, strict tenant isolation, cryptographic session management, and pre-wired cloud infrastructure, built and tested entirely on Android hardware.
 
 ---
